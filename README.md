@@ -11,7 +11,7 @@
 
 ## Description
 
-This repository contains the official code of the research paper Let Them Drop: Scalable and Efficient Secure Federated Learning Solutions Agnostic to Client Stragglers **available soon** pusblished at [ARES 2024](https://www.ares-conference.eu/).<br>
+This repository contains the official code of the research paper [Let Them Drop: Scalable and Efficient Secure Federated Learning Solutions Agnostic to Client Stragglers](https://dl.acm.org/doi/abs/10.1145/3664476.3664488) pusblished at [ARES 2024](https://www.ares-conference.eu/).<br>
 
 
 ## Abstract
@@ -43,4 +43,22 @@ Anaconda can be installed in your user directory and does not interfere with the
 ## Code contributions
 * FTSA repository - [github](https://github.com/MohamadMansouri/fault-tolerant-secure-agg)
 * Flamingo repository - [github](https://github.com/eniac/flamingo/tree/main)
-## Cite this work (coming soon)
+## Cite this work
+```
+@inproceedings{10.1145/3664476.3664488,
+author = {Taiello, Riccardo and \"{O}nen, Melek and Gritti, Cl\'{e}mentine and Lorenzi, Marco},
+title = {Let Them Drop: Scalable and Efficient Federated Learning Solutions Agnostic to Stragglers},
+year = {2024},
+isbn = {9798400717185},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3664476.3664488},
+doi = {10.1145/3664476.3664488},
+booktitle = {Proceedings of the 19th International Conference on Availability, Reliability and Security},
+articleno = {13},
+numpages = {12},
+keywords = {Secure Aggregation, Synchronous and Asynchronous Federated Learning},
+location = {Vienna, Austria},
+series = {ARES '24}
+}
+```
